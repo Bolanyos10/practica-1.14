@@ -12,10 +12,19 @@ h2{
     color: rgb(95, 11, 11);
 }
 
-li{
-    /* Enumeración */
-    color: brown;
+li.colorlista {
+
+    color:black;
+
 }
+
+span{
+
+    color: orange;
+
+}
+
+
 
 a{
     /* Color de los nav */
