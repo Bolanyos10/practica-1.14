@@ -8,6 +8,15 @@ h1{
     color: rgb(95, 11, 11);
 }
 
+h2{
+    color: rgb(95, 11, 11);
+}
+
+li{
+    /* Enumeración */
+    color: brown;
+}
+
 a{
     /* Color de los nav */
     color: brown;
@@ -41,4 +50,5 @@ pre{
 p.video{
     text-align: center;
 }
+
 
